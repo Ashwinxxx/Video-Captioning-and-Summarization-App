@@ -1,7 +1,9 @@
-streamlit
-torch
-transformers
-opencv-python-headless
-Pillow
-requests
-tqdm
+streamlit>=1.28.0
+torch>=1.13.0
+torchvision>=0.14.0
+transformers>=4.21.0
+opencv-python-headless>=4.5.0
+Pillow>=9.0.0
+numpy>=1.21.0
+requests>=2.25.0
+tqdm>=4.62.0
